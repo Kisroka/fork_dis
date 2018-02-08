@@ -1,6 +1,8 @@
 # fork_dis
 gyakorlás
 
+the new stuff :)
+
 
 I forked this!
 
